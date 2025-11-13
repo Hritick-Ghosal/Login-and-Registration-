@@ -6,26 +6,26 @@ The repository also includes a detailed project report and a ZIP archive of the 
 
  Features
 
-User registration with form validation
+-> User registration with form validation
 
-Secure login authentication
+-> Secure login authentication
 
-Password encryption using hashing
+-> Password encryption using hashing
 
-MySQL database integration
+-> MySQL database integration
 
-Session management and logout
+-> Session management and logout
 
-Error handling and input validation
+-> Error handling and input validation
 
-Clean and simple user interface
+-> Clean and simple user interface
 
  Technologies Used
 
-Frontend: HTML, CSS
+-> Frontend: HTML, CSS
 
-Backend: PHP
+-> Backend: PHP
 
-Database: MySQL
+-> Database: MySQL
 
-Server: XAMPP / WAMP
+-> Server: XAMPP 
